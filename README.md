@@ -59,7 +59,7 @@ Le projet contient :
 ### **Étapes pour exécuter le projet**
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-utilisateur/calculatrice_scientifique.git
+   git clone https://github.com/Roi12122525/Calculatrice_Scientifique.git
    ```
 2. Ouvrez le projet dans un IDE compatible.
 3. Compilez et exécutez le fichier principal `CalculatriceScientifique.java`.
